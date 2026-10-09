@@ -9,4 +9,4 @@ Mirar la pagina web para la practica, en la cual hay dos pdfs con las tareas que
 - Comparar la cantidad de nodos expandidos por este método con relación a los métodos de búsqueda primero en anchura y primero en profundidad.
 - Realizar a mano la traza de una búsqueda (opcional).
 
-![alt text](tarea1.png)
+![grafo](./img/tarea1.png)
